@@ -1,3 +1,6 @@
+html, body{
+	width:100%;
+}
 body {
 	margin: 0px;
 	background-color: #000;
@@ -5,16 +8,15 @@ body {
 	color: #fff;
 }
 body a {
-	color: #ffa500;
+	color: #a09dd7;
 	text-decoration: none;
 }
 body a:hover {
-	color: #ffd700;
+	color: #c6e2ff;
 }
 body .content {
 	background: url("me.png") no-repeat top right;
-	height: 1398px;
-	width: 1600px;
+	height: 1000px;
 	margin: 0 0 0 auto;
 	padding-left: 50px;
 }
