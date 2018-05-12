@@ -8,11 +8,11 @@ body {
 	color: #fff;
 }
 body a {
-	color: #a09dd7;
+	color: #ffa500;
 	text-decoration: none;
 }
 body a:hover {
-	color: #c6e2ff;
+	color: #ffd700;
 }
 body .content {
 	background: url("me.png") no-repeat top right;
