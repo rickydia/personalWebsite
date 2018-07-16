@@ -15,7 +15,7 @@ body a:hover {
 	color: #ffd700;
 }
 body .content {
-	background: url("me2.png") no-repeat top right;
+	background: url("images/me2.png") no-repeat top right;
 	height: 1000px;
 	margin: 0 0 0 auto;
 	padding-left: 50px;
